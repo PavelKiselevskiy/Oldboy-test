@@ -1,0 +1,30 @@
+//color
+
+$main-text-color: #fff;
+$acent-text-color: #D8A04D;
+
+
+// text-size
+$main-text-size: 18px;
+
+
+
+img, picture {
+  display: block;
+  margin: 0;
+  padding: 0;
+}
+
+ul, a, button {
+  text-decoration: none;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  background-color: transparent;
+  border: none;
+  color: inherit;
+}
+h1, h2, h3, h4 {
+  margin: 0;
+  padding: 0;
+}
